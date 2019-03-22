@@ -1,4 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Pacifico|Sniglet');
 p {
     text-align: center;
+    font-family: 'Sniglet';
+    font-size: 15pt;
+    color: deepskyblue;
+}
+h1 {
+    text-align: center;
+    font-family: 'Indie FLower';
+    font-size: 50pt;
+    color:black;
+    background-color: aliceblue;
+}
+h2{
+    text-align: center;
+    font-family: 'Indie FLower';
+    font-size: 20pt;
+    text-decoration-line: underline;
+}
+body{
+    background-color: antiquewhite;
+}
+.center {
+    width: 15%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
     
 }
